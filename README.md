@@ -5,6 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Arushi%20Singh-blue?style=for-the-badge&logo=linkedin">
   </a>
 </p>
+---
+
 ## 👩‍💻 About Me
 
 🎓 B.Tech Information Technology Student
